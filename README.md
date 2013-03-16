@@ -1,4 +1,0 @@
-tex-templates
-=============
-
-TeX templates
